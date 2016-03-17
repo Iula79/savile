@@ -24,7 +24,7 @@ It reduces syntax mistakes.
 
 ## What is the value of foo?
 
-var foo = 10 + '20';
+`var foo = 10 + '20';`
 This foo would be a string: '1020'. Javascript addition operator becomes a concatenation tool when used with strings. When combining numbers and strings it automatically treats numbers as strings.
 
 ## How would you make this work?
